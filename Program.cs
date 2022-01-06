@@ -15,5 +15,11 @@ namespace csharp_console_app
             hiworld = "Hello World!";
 			System.Console.WriteLine(hiworld);
 		}
+
+        static public void showinfo()
+        {
+            double version = 1.0;
+            string name = "CSharp_Console_App";
+        }
 	}
 }
