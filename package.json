@@ -1,0 +1,22 @@
+{
+  "name": "csharp-console-app",
+  "version": "1.0.0",
+  "description": "a C# app",
+  "main": "Program.cs",
+  "scripts": {
+    "test": "Console.Writeline(\"Hello World\")"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iDevYT/C--Console-App.git"
+  },
+  "keywords": [
+    "c#"
+  ],
+  "author": "iDev",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/iDevYT/C--Console-App/issues"
+  },
+  "homepage": "https://github.com/iDevYT/C--Console-App#readme"
+}
