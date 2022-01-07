@@ -5,4 +5,4 @@
 
 ## Why This Template?
 
-This template is not olny a c# project, it is also a executable 
+This template is not olny a c# project, it is also a executable
