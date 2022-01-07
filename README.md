@@ -5,4 +5,8 @@
 
 ## Why This Template?
 
-This template is not olny a c# project, it is also a executable
+This template is not olny a c# project, it is also a executable 
+
+# **IMPORTANT** 
+
+I will no longer update this template. For better Support Go to the the `big-update` branch or wait for a new repository.#
